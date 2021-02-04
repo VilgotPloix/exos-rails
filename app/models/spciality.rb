@@ -1,0 +1,2 @@
+class Spciality < ApplicationRecord
+end
